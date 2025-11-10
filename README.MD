@@ -24,7 +24,7 @@
 
 1. `DistilBERT_train.py` DistilBERT 模型微调代码
 2. `DistillBERT_explain.py` DistilBERT 模型可解释性代码，使用积分梯度法
-3. `distilbert_imdb_best.pth` 保存的 DistilBERT 最佳模型文件
+3. `distilbert_imdb_best.pth` 保存的 DistilBERT 最佳模型文件（PS.由于此文件太大无法直接上传，如有需要，点此下载[模型文件](https://pan.baidu.com/s/1efGVGXf5UqwVTpUVyO0Qig?pwd=5dwd))
 
 ## 2. 模型环境配置
 
