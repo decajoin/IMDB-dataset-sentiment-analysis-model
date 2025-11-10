@@ -1,0 +1,9 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_labels": 2,
+  "max_length": 256,
+  "best_accuracy": 0.91232,
+  "epoch": 2,
+  "vocab_size": 30522,
+  "model_type": "DistilBertForSequenceClassification"
+}
